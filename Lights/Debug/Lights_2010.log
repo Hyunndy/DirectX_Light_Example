@@ -1,0 +1,8 @@
+﻿  d3dUtility.cpp
+  spotLight.cpp
+c:\users\user\desktop\코딩관련\용책 예제파일\bookpart2code\book part ii code\chapter 5\spotlight\spotlight.cpp(221): warning C4100: 'showCmd': 참조되지 않은 정식 매개 변수입니다.
+c:\users\user\desktop\코딩관련\용책 예제파일\bookpart2code\book part ii code\chapter 5\spotlight\spotlight.cpp(220): warning C4100: 'cmdLine': 참조되지 않은 정식 매개 변수입니다.
+c:\users\user\desktop\코딩관련\용책 예제파일\bookpart2code\book part ii code\chapter 5\spotlight\spotlight.cpp(219): warning C4100: 'prevInstance': 참조되지 않은 정식 매개 변수입니다.
+  코드를 생성하고 있습니다...
+  Lights_2010.vcxproj -> D:\VS_Compile\Lights\Debug\Lights.exe
+  Lights_2010.vcxproj -> D:\VS_Compile\Lights\Debug\Lights.pdb (Full PDB)
